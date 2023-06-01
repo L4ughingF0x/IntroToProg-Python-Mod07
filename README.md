@@ -23,7 +23,7 @@ Displayed in the following two figures are the proof of function for the program
 
 Figure 3:
 
-<img src="https://github.com/L4ughingF0x/IntroToProg-Python-Mod07/blob/main/screenshot1.png">
+<img src="https://github.com/L4ughingF0x/IntroToProg-Python-Mod07/blob/main/commandline%20assignment7.PNG">
 
 Figure 4:
 
